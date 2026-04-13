@@ -1,0 +1,6 @@
+{
+  "name": "Centralized Application-Context Aware Firewall",
+  "description": "A smart firewall system that monitors and controls network traffic based on application behavior, user identity, and context.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
